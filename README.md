@@ -35,7 +35,7 @@ As imagens do catálogo são carregadas do Unsplash e precisam de conexão com a
 - Checkout simulado com PIX, boleto ou cartão; pedido, itens e baixa de estoque são feitos em transação.
 - Área administrativa protegida por perfil, com CRUD de produtos e consulta de pedidos.
 
-O pagamento é apenas uma simulação acadêmica: não há cobrança real nem integração com gateway.
+O pagamento é apenas uma simulação acadêmica: não há cobrança real nem integração com gateway, então podemos selecionar qualquer forma de pagamento.
 
 ## Arquivos principais
 
